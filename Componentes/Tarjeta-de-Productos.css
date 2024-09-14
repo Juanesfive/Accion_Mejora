@@ -22,3 +22,7 @@
     font-size: var(--tamaño-fuente);
     color: var(--color-secundario);
 }
+
+.precio--verde{
+    color: rgb(5, 144, 5);
+}

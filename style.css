@@ -1,13 +1,13 @@
-@import url('alerta.css');
-@import url('botón.css');
-@import url('tarjeta.css');
-@import url('footer.css');
-@import url('formulario.css');
-@import url('Lista.css');
-@import url('interfaz_Emergente.css');
-@import url('navegacion.css');
-@import url('Tarjeta-de-Productos.css');
-@import url('Tablas.css');
+@import url('./Componentes/alerta.css');
+@import url('./Componentes/boton.css');
+@import url('./Componentes/tarjeta.css');
+@import url('./Componentes/footer.css');
+@import url('./Componentes/formulario.css');
+@import url('./Componentes/lista.css');
+@import url('./Componentes/interfaz_Emergente.css');
+@import url('./Componentes/navegacion.css');
+@import url('./Componentes/Tarjeta-de-Productos.css');
+@import url('./Componentes/tablas.css');
 
 
 

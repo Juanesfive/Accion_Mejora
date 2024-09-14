@@ -35,3 +35,7 @@
     padding: 16px;
     border-radius: 15px;
 }
+
+.footer--yellow{
+    color: rgb(255, 255, 0);
+}

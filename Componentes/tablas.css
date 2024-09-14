@@ -16,3 +16,7 @@
 .tabla__filas:hover {
     background-color: var(--color-fondo);
 }
+
+.tabla--verde{
+    color: green;
+}

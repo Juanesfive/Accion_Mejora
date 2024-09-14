@@ -43,3 +43,7 @@
   color: var(--color-texto);
   text-align: center;
 }
+
+.tarjeta--rosa{
+  color: rgb(255, 182, 193);
+}

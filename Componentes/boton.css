@@ -11,3 +11,11 @@
 .botón:hover {
     background-color: darkgreen;
 }
+
+.botón--rojo{
+    color: rgb(255, 0, 0);
+}
+
+.botón--azul{
+    color: rgb(0, 0, 255);
+}
